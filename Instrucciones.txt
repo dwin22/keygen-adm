@@ -1,0 +1,41 @@
+===============
+ INSTRUCCIONES
+===============
+
+1. Descargar este archivo zip a su VPS y descomprimirlo (para descomprimirlo usar el comando "unzip ADMGEN.zip")
+
+2. Use el comando "cd ADMGEN" para navegar a la carpeta descomprimida.
+
+3. Si usted tiene una key, siga el metodo 1, de lo contrario, siga el metodo 2.
+
+
+==========
+ METODO 1
+==========
+
+1. Una vez dentro de la carpeta ADMGEN, darle permisos de ejecucion, lectura y escritura al archivo "instgerador.sh". Use el comando "chmod 777 instgerador.sh"
+
+2. Ejecute el archivo: "./instgerador.sh".
+
+3. Cuando se le pida, introduzca su key, que adquirio al comprar el producto. Luego, presione ENTER.
+
+4. Espere a que se complete la descarga de los archivos. Cuando vea que el generador se instalo correctamente, siga el paso 5.
+
+5. Introduzca el comando "gerar", en el caso de que no funcione use el comando "gerar.sh".
+
+6. Elija la opcion 5 y pulse ENTER. Compruebe si el keygen esta online mirando la opcion 5.
+
+
+==========
+ METODO 2
+==========
+
+1. Una vez dentro de la carpeta ADMGEN, ejecute este comando: "mkdir /etc/SCRIPT; mv /ADMGEN/gerador/* /etc/SCRIPT; mv /etc/SCRIPT/gerar.sh /usr/bin/gerar.sh; mv /etc/SCRIPT/http-server.py /bin/http-server.py; mv /bin/http-server.py /bin/http-server.sh" (sin las comillas)
+
+5. Introduzca el comando "gerar", en el caso de que no funcione use el comando "gerar.sh".
+
+6. Elija la opcion 5 y pulse ENTER. Compruebe si el keygen esta online mirando la opcion 5.
+
+IMPORTANTE: EN SU VPS, LOS PUERTOS 8888, 80 Y 81 DEBEN ESTAR ABIERTOS A INTERNET PARA QUE EL GENERADOR FUNCIONE CORRECTAMENTE. SI NO SABE COMO ABRIR ESOS PUERTOS, CONSULTE CON SU PROVEEDOR DE VPS.
+
+NOTA: CADA VEZ QUE REINICIE SU VPS DEBERA ASEGURARSE DE QUE EN LA OPCION 5 DIGA "online" EN LETRAS VERDES. SI DICE "off" EN LETRAS ROJAS, ESCRIBA 5 Y PULSE ENTER.
