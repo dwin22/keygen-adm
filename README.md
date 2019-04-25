@@ -25,6 +25,6 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/EN
 ==================================================================================
 COMPLETAMENTE FREE! SOURCE CODE TRADUCIDO!
 
-===============
-@marchnickadm
-===============
+https://t.me/plantinumonline
+
+By: ~ Dw ~
