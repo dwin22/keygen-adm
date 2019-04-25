@@ -7,7 +7,7 @@ BARRA="\033[1;36m---------------------------------------------------------------
 echo -e "$BARRA"
 cat << EOF
 
-           NEW KEY GENERATOR BY MARCHNICK
+           NEW KEY GENERATOR By: ~Dw~
            INSTALACIONES: $(cat $IVAR)
            
 EOF
