@@ -20,7 +20,7 @@ apt-get update -y; apt-get upgrade -y; wget https://www.dropbox.com/s/s4k7ovuimv
 
 INSTALADOR ALTERNATIVO
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/ENZOLU/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
+apt-get update -y; apt-get upgrade -y; wget https://github.com/dwin22/keygen-adm/blob/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
 
 ==================================================================================
 COMPLETAMENTE FREE! SOURCE CODE TRADUCIDO!
