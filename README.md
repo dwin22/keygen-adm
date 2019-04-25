@@ -10,7 +10,7 @@ Generador De Key
 
 EJECUTAR ESTE COMANDO COMO ROOT (sudo -i)
 
-wget https://raw.githubusercontent.com/ENZOLU/GENERADOR-NEW-ULTIMATE-ORIGINAL-1/master/instgerador.sh; chmod 777 instgerador.sh; ./instgerador.sh
+wget https://raw.githubusercontent.com/dwin22/keygen-adm/master/instgerador.sh; chmod 777 instgerador.sh; ./instgerador.sh
 
 =======================================================================
 
